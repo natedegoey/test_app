@@ -25,4 +25,4 @@ jobs:
 #           yarn lefthook run ci-hook
       - name: Run test
         run: |
-          yarn test-ci
+          yarn test
